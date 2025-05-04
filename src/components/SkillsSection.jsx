@@ -1,22 +1,22 @@
 const skills = [
 	{
 		name: 'HTML',
-		level: 70,
-		category: 'frontend',
-	},
-	{
-		name: 'CSS',
 		level: 65,
 		category: 'frontend',
 	},
 	{
-		name: 'JavaScript',
+		name: 'CSS',
 		level: 60,
 		category: 'frontend',
 	},
 	{
+		name: 'JavaScript',
+		level: 55,
+		category: 'frontend',
+	},
+	{
 		name: 'React',
-		level: 45,
+		level: 40,
 		category: 'frontend',
 	},
 	{
@@ -31,12 +31,12 @@ const skills = [
 	},
 	{
 		name: 'Debugging',
-		level: 45,
+		level: 35,
 		category: 'all',
 	},
 	{
 		name: 'VS Code',
-		level: 60,
+		level: 55,
 		category: 'tools',
 	},
 	{
@@ -46,7 +46,7 @@ const skills = [
 	},
 	{
 		name: 'Sass',
-		level: 55,
+		level: 50,
 		category: 'frontend',
 	},
 	{
