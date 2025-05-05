@@ -1,4 +1,5 @@
 import { Code, Compass, Sprout } from 'lucide-react';
+import CV from '../assets/cv_Karol_Bak_en.pdf';
 
 export const AboutSection = () => {
 	return (
@@ -29,7 +30,7 @@ export const AboutSection = () => {
 								Get In Touch
 							</a>
 							<a
-								href='../../public/cv_Karol_Bak_en.pdf'
+								href={CV}
 								download='cv_Karol_Bak_en.pdf'
 								className='px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300'>
 								Download CV
